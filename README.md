@@ -1,10 +1,10 @@
 # TheClaw Project
 
-TheClaw Project is an open-source reimagining of the classic OpenClaw game. Our goal is to recreate and modernize the original gameplay experience, providing a faithful clone with updated technology and compatibility for contemporary systems.
+TheClaw Project is an open-source reimagining of the classic OpenClaw. Our goal is to recreate TE AI AGENT experience, providing a faithful clone with updated technology and compatibility for contemporary systems.
 
 ## Features
 
-- Faithful recreation of the original OpenClaw game
+- Faithful recreation of the original OpenClaw
 - Modern graphics and sound support
 - Cross-platform compatibility (Windows, Linux, macOS)
 - Save and load functionality
