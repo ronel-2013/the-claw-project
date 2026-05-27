@@ -18,6 +18,12 @@ TheClaw Project is an open-source reimagining of the classic OpenClaw. Our goal 
     ```
 
 2. Follow the setup instructions (to be added).
+   ```bash
+    cd the-claw-project
+   py -m pip install -r requirements.txt
+   cd src
+   py main.py
+    ```
 
 ## Contributing
 
